@@ -1,0 +1,6 @@
+{
+  "name": "RENRIS DePIN",
+  "description": "A decentralized physical infrastructure network platform on LiteForge LitVM, facilitating bandwidth, storage, and AI GPU compute resource contributions with secure cryptographic on-chain claims.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
